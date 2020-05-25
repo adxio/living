@@ -1,10 +1,10 @@
 {
   "products": [
-    {"id":1,"name":"Lemon","price":218000,"price_sale":176000,"image":"lemon.jpg","images":["lemon.jpg"],"slug":"lemon"},
-		{"id":2,"name":"Eucalyptus","price":180000,"price_sale":106000,"image":"eucalyptus.jpg","images":["eucalyptus.jpg"],"slug":"eucalyptus"},
-		{"id":3,"name":"Lavender","price":408000,"price_sale":360000,"image":"lavender.jpg","images":["lavender.jpg"],"slug":"lavender"},
-		{"id":4,"name":"Teatree","price":380000,"price_sale":316000,"image":"teatree.jpg","images":["teatree.jpg"],"slug":"teatree"},
-		{"id":5,"name":"RC","price":212000,"price_sale":161000,"image":"rc.jpg","images":["rc.jpg"],"slug":"rc"},
-		{"id":6,"name":"Thieves","price":380000,"price_sale":286000,"image":"thieves.jpeg","images":["thieves.jpg"],"slug":"thieves"}
+    {"id":1,"name":"Lemon","price":218000,"price_sale":176000,"image":"lemon.jpg","images":[{"img":"lemon.jpg"}],"slug":"lemon"},
+		{"id":2,"name":"Eucalyptus","price":180000,"price_sale":106000,"image":"eucalyptus.jpg","images":[{"img":"eucalyptus.jpg"}],"slug":"eucalyptus"},
+		{"id":3,"name":"Lavender","price":408000,"price_sale":360000,"image":"lavender.jpg","images":[{"img":"lavender.jpg"}],"slug":"lavender"},
+		{"id":4,"name":"Teatree","price":380000,"price_sale":316000,"image":"teatree.jpg","images":[{"img":"teatree.jpg"}],"slug":"teatree"},
+		{"id":5,"name":"RC","price":212000,"price_sale":161000,"image":"rc.jpg","images":[{"img":"rc.jpg"}],"slug":"rc"},
+		{"id":6,"name":"Thieves","price":380000,"price_sale":286000,"image":"thieves.jpeg","images":[{"img":"thieves.jpg"}],"slug":"thieves"}
   ]
 }
