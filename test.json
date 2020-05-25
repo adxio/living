@@ -1,0 +1,10 @@
+{
+  "products": [
+    {"id":1,"name":"Lemon","price":180000,"price_sale":160000,"image":"lemon.jpeg"},
+		{"id":1,"name":"Lemon","price":180000,"price_sale":160000,"image":"lemon.jpeg"},
+		{"id":1,"name":"Lemon","price":180000,"price_sale":160000,"image":"lemon.jpeg"},
+		{"id":1,"name":"Lemon","price":180000,"price_sale":160000,"image":"lemon.jpeg"},
+		{"id":1,"name":"Lemon","price":180000,"price_sale":160000,"image":"lemon.jpeg"},
+		{"id":1,"name":"Lemon","price":180000,"price_sale":160000,"image":"lemon.jpeg"}
+  ]
+}
