@@ -1,10 +1,10 @@
 {
   "products": [
-    {"id":1,"name":"Lemon","price":180000,"price_sale":160000,"image":"lemon.jpeg"},
-		{"id":1,"name":"Lemon","price":180000,"price_sale":160000,"image":"lemon.jpeg"},
-		{"id":1,"name":"Lemon","price":180000,"price_sale":160000,"image":"lemon.jpeg"},
-		{"id":1,"name":"Lemon","price":180000,"price_sale":160000,"image":"lemon.jpeg"},
-		{"id":1,"name":"Lemon","price":180000,"price_sale":160000,"image":"lemon.jpeg"},
-		{"id":1,"name":"Lemon","price":180000,"price_sale":160000,"image":"lemon.jpeg"}
+    {"id":1,"name":"Lemon","price":218000,"price_sale":176000,"image":"lemon.jpg","slug":"lemon"},
+		{"id":2,"name":"Eucalyptus","price":180000,"price_sale":106000,"image":"eucalyptus.jpg","slug":"eucalyptus"},
+		{"id":3,"name":"Lavender","price":408000,"price_sale":360000,"image":"lavender.jpg","slug":"lavender"},
+		{"id":4,"name":"Teatree","price":380000,"price_sale":316000,"image":"teatree.jpg","slug":"teatree"},
+		{"id":5,"name":"RC","price":212000,"price_sale":161000,"image":"rc.jpg","slug":"rc"},
+		{"id":6,"name":"Thieves","price":380000,"price_sale":286000,"image":"thieves.jpeg","slug":"thieves"}
   ]
 }
